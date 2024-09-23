@@ -21,7 +21,11 @@ Dataset Creation: Generates and saves synthetic stock and option data for  analy
 Technologies Used:
 
 Python
+
 NumPy, SciPy
+
 Matplotlib for visualizations
+
 Pandas for data manipulation
+
 Jupyter Notebook
